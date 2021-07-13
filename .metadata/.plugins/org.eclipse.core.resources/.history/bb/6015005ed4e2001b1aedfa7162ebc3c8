@@ -1,0 +1,5 @@
+package com.spring.professional.exam.tutorial.module01.question01.spring.dependency.injection;
+
+public class EmployeeSalariesReportService {
+
+}

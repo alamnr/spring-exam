@@ -1,0 +1,10 @@
+package com.spring.professional.exam.tutorial.module01.question01.no.dependency.injection;
+
+public class Runner {
+	
+	 public static void main(String ...args) {
+		 EmployeeSalariesReportService emplSalariesReportService = new EmployeeSalariesReportService();
+		 emplSalariesReportService.generateReport();
+	 }
+
+}

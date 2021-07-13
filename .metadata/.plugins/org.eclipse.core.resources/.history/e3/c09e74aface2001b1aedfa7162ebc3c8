@@ -1,0 +1,15 @@
+package com.spring.professional.exam.tutorial.module01.question01.no.dependency.injection;
+
+import java.util.List;
+
+import com.spring.professional.exam.tutorial.module01.question01.commons.dao.EmployeeDao;
+import com.spring.professional.exam.tutorial.module01.question01.commons.ds.Employee;
+
+public class EmployeeSalariesReportService {
+	
+	void generateReport() {
+		EmployeeDao employeeDao = new EmployeeDao();
+		List<Employee> employees = employeeDao.findAll();
+	}
+
+}
