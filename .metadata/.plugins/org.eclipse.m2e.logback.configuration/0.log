@@ -427,3 +427,11 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-07-17 11:24:18,721 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
 2021-07-17 11:24:18,722 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-17 11:24:18,723 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:28:56,628 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:28:56,629 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:28:56,630 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:28:56,630 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:30:53,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:30:53,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:30:53,439 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:30:53,439 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
