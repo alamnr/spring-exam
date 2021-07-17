@@ -435,3 +435,59 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-07-17 11:30:53,437 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
 2021-07-17 11:30:53,439 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-17 11:30:53,439 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:33:15,085 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:33:15,086 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:33:15,087 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:33:15,087 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:33:20,752 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:33:20,752 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:33:20,753 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:33:20,753 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:34:48,793 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:34:48,793 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:34:48,794 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:34:48,794 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:35:12,737 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:35:12,737 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:35:12,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:35:12,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:36:14,563 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:36:14,564 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:36:14,565 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:36:14,566 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:37:03,431 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:37:03,431 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:37:03,432 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:37:03,433 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:39:01,937 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:39:01,937 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:39:01,939 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:39:01,939 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 11:39:08,235 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:39:08,235 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 11:39:08,236 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 11:39:08,236 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 14:57:39,438 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 14:57:39,440 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 14:57:39,443 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 14:57:39,443 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 14:59:42,519 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 14:59:42,520 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 14:59:42,521 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 14:59:42,521 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 15:05:34,632 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:05:34,632 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 15:05:34,633 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:05:34,634 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 15:17:07,959 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:17:07,959 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 15:17:07,960 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:17:07,961 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 15:18:06,945 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:18:06,945 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 15:18:06,946 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:18:06,946 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
+2021-07-17 15:18:17,011 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:18:17,012 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\main\resources
+2021-07-17 15:18:17,013 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-17 15:18:17,013 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\abar-suru\java-workspace\spring-exam\module01-question03\src\test\resources
