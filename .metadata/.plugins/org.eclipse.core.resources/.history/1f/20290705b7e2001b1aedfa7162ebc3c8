@@ -1,9 +1,0 @@
-package com.spring.professional.exam.tutorial.module01.question01.manual.dependency.injection;
-
-import org.junit.runner.RunWith;
-import org.mockito.junit.MockitoJUnitRunner;
-
-@RunWith(MockitoJUnitRunner.class)
-public class EmployeeSalariesReportServiceTest {
-
-}
