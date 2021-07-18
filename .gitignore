@@ -1,5 +1,5 @@
 /target/
-/bin
+/bin/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -10,6 +10,8 @@
 .settings
 .springBeans
 .sts4-cache
+
+.metadata
 
 ### IntelliJ IDEA ###
 .idea
