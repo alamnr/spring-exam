@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<mvc:annotation-driven />
+
+	<bean id="springController"
+		class="com.spring.professional.exam.tutorial.module01.question06.web.servlet3.xml.beans.SpringController">
+		<property name="springBean1" ref="springBean1" />
+	</bean>
+	<bean id="springBean1"
+		class="com.spring.professional.exam.tutorial.module01.question06.web.servlet3.xml.beans.SpringBean1">
+		<property name="springBean2" ref="springBean2" />
+		<property name="springBean3" ref="springBean3" />
+	</bean>
+	<bean id="springBean2"
+		class="com.spring.professional.exam.tutorial.module01.question06.web.servlet3.xml.beans.SpringBean2" />
+	<bean id="springBean3"
+		class="com.spring.professional.exam.tutorial.module01.question06.web.servlet3.xml.beans.SpringBean3" />
+</beans>
