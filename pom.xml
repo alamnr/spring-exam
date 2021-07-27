@@ -25,36 +25,9 @@
         <module>module01-question04</module>
         <module>module01-question05</module>
         <module>module01-question06</module>
-		<!--
-        <module>module01-question07</module>
-        <module>module01-question08</module>
-        <module>module01-question09</module>
-        <module>module01-question10</module>
-        <module>module01-question11</module>
-        <module>module01-question12</module>
-        <module>module01-question13</module>
-        <module>module01-question14</module>
-        <module>module01-question15</module>
-        <module>module01-question16</module>
-        <module>module01-question17</module>
-        <module>module01-question18</module>
-        <module>module01-question19</module>
-        <module>module01-question20</module>
-        <module>module01-question21</module>
-        <module>module01-question22</module>
-        <module>module01-question23</module>
-        <module>module01-question24</module>
-        <module>module01-question25</module>
-        <module>module01-question26</module>
-        <module>module01-question27</module>
-        <module>module01-question28</module>
-        <module>module01-question29</module>
-        <module>module01-question30</module>
-        <module>module01-question31</module>
-        <module>module01-question32</module>
-        <module>module01-question33</module>
-        <module>module01-question34</module>-->
+		
       <module>module01-question07</module>
+    <module>module01-question08</module>
   </modules>
 
     <dependencyManagement>
