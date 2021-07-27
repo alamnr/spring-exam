@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>spring-professional-exam-tutorial-module01</groupId>
@@ -20,13 +18,14 @@
     </properties>
 
     <modules>
-        <module>module01-environment-validation</module>
+        <!--<module>module01-environment-validation</module>-->
         <module>module01-question01</module>
         <module>module01-question02</module>
         <module>module01-question03</module>
         <module>module01-question04</module>
         <module>module01-question05</module>
         <module>module01-question06</module>
+		<!--
         <module>module01-question07</module>
         <module>module01-question08</module>
         <module>module01-question09</module>
@@ -54,8 +53,9 @@
         <module>module01-question31</module>
         <module>module01-question32</module>
         <module>module01-question33</module>
-        <module>module01-question34</module>
-    </modules>
+        <module>module01-question34</module>-->
+      <module>module01-question07</module>
+  </modules>
 
     <dependencyManagement>
         <dependencies>
