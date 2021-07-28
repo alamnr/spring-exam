@@ -28,6 +28,7 @@
 		
       <module>module01-question07</module>
     <module>module01-question08</module>
+    <module>module01-question09</module>
   </modules>
 
     <dependencyManagement>
