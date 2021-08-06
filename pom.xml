@@ -31,6 +31,7 @@
     <module>module01-question09</module>
     
     <module>module01-question10</module>
+    <module>module01-question11</module>
   </modules>
 
     <dependencyManagement>
