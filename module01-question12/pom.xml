@@ -9,11 +9,11 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.spring.professional.exam.tutorial.module01.question11</groupId>
-	<artifactId>module01-question11</artifactId>
+	<groupId>com.spring.professional.exam.tutorial.module01.question12</groupId>
+	<artifactId>module01-question12</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
-	<name>module01-question11</name>
+	<name>module01-question12</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
