@@ -12,6 +12,12 @@ public class PropertyReadingBean {
 	@Value("${app.envid}")
 	private String appEnvId;
 	
+	public PropertyReadingBean() {
+		System.out.println("Inside Constructor");
+		System.out.println(" app.env = " + appEnv);
+		System.out.println(" app.envid = " + appEnvId );
+	}
+	
 	
 	public void printProperties() {
 		System.out.println(" app.env = " + appEnv);
