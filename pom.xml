@@ -36,6 +36,7 @@
     <module>module01-question13</module>
     <module>module01-question14</module>
     <module>module01-question15</module>
+    <module>module01-question16</module>
   </modules>
 
     <dependencyManagement>
