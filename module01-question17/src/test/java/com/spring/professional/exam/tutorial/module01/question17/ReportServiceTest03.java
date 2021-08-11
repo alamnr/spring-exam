@@ -18,8 +18,6 @@ public class ReportServiceTest03 {
 	
 	private ReportService reportService;
 	
-	
-	
 	@Before
 	public void setUp() {
 		reportService = new ReportService();
