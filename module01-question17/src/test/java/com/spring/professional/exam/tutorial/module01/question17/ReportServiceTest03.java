@@ -7,7 +7,7 @@ import static org.mockito.Mockito.any;
 
 import org.junit.Before;
 import org.junit.Test;
-
+import org.mockito.Mock;
 import org.springframework.test.util.ReflectionTestUtils;
 
 import com.spring.professional.exam.tutorial.module01.question17.ds.Report;
@@ -17,6 +17,8 @@ import com.spring.professional.exam.tutorial.module01.question17.writer.ReportWr
 public class ReportServiceTest03 {
 	
 	private ReportService reportService;
+	
+	
 	
 	@Before
 	public void setUp() {

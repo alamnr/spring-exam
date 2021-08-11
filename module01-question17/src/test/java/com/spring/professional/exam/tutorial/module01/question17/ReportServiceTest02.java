@@ -20,9 +20,9 @@ public class ReportServiceTest02 {
 	@InjectMocks
 	private ReportService reportService;
 	
-	private ReportWriter reportWriter = mock(ReportWriter.class);
-	//@Mock
-	//private ReportWriter reportWriter;
+	//private ReportWriter reportWriter = mock(ReportWriter.class);
+	@Mock
+	private ReportWriter reportWriter;
 	
 	@Test
 	public void shouldPassReportToWwrite() {
