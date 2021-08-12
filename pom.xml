@@ -39,6 +39,7 @@
     <module>module01-question16</module>
     <module>module01-question17</module>
     <module>junit-mockito-example</module>
+    <module>module01-question18</module>
   </modules>
 
     <dependencyManagement>
