@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import com.spring.professional.exam.tutorial.module01.question22.beans.SpringBean1;
+
 public class Runner {
 	
 	public static void main(String[] args) {
@@ -15,6 +17,8 @@ public class Runner {
 		
 		System.out.println("Fetching bean by alias: " );
 		System.out.println(context.getBean("thirdSpringBean").getClass().getSimpleName());
+		System.out.println(context.getBean(SpringBean1.class));
+		System.out.println(context.getBean(SpringBean1.class));
 	}
 
 }
