@@ -47,6 +47,7 @@
     <module>module01-question23</module>
     <module>module01-question24</module>
     <module>module01-question25</module>
+    <module>module01-question26</module>
   </modules>
 
     <dependencyManagement>
