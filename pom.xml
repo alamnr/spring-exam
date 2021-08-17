@@ -53,6 +53,7 @@
     <module>module01-question29</module>
     <module>module01-question30</module>
     <module>module01-question31</module>
+    <module>module01-question32</module>
   </modules>
 
     <dependencyManagement>
